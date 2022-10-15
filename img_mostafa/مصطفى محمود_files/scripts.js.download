@@ -1,0 +1,76 @@
+$(document).ready(function(){
+
+  "use strict";
+
+  /******************************** Intro Carousel **********************************/
+$('.owl-carousel.intro-caro').owlCarousel({
+  loop:true,
+  margin:0,
+  autoplay: true,
+  responsive:{
+      0:{
+          items:1
+      }
+  }
+});
+
+$('.donate2 i').click(function(){
+  $('.donate2').fadeOut();
+})
+
+/******************************** Camps Carousel **********************************/
+$('.owl-carousel.camps-caro').owlCarousel({
+  loop:true,
+  margin:0,
+  autoplay: true,
+  responsive:{
+      0:{
+          items:1
+      }
+  },
+});
+/******************************** Camps Carousel Backgrounded Dots **********************************/
+let items = $('.camps .owl-carousel.camps-caro .owl-item:not(".cloned")');
+for(let i = 0; i < items.length; i++){
+  let src = items.eq(i).find('.img img').attr('src');
+  $('.camps .owl-theme .owl-dots .owl-dot').eq(i).find('span').css('backgroundImage', "url('" + src + "')");
+}
+
+
+$('.owl-carousel.news-caro').owlCarousel({
+  loop:true,
+  margin:40,
+  nav:true,
+  autoplay: true,
+  navText: ['<i class="fa fa-caret-left"></i>', '<i class="fa fa-caret-right"></i>'],
+  dots: false,
+  responsive:{
+      0:{
+          items:1
+      },
+      900:{
+          items:2
+      }
+  }
+});
+
+/******************************** Branches Carousel **********************************/
+$('.branches-caro').owlCarousel({
+  loop:true,
+  margin:0,
+  autoplay: true,
+  responsive:{
+      0:{
+        items:1
+      },
+      767:{
+        items:2
+      },
+      991:{
+        items:3
+      }
+  }
+});
+  
+});
+

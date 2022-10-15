@@ -1,0 +1,131 @@
+body{
+
+
+width:100%
+}
+
+
+.bg1
+
+
+{
+
+background-image: url(css/ahmed3.jpg);
+height:610px;
+
+}
+.div11{
+
+
+
+width: 20px;
+}
+.mhy {
+
+font-size: 25px;
+color:#9fd25e;
+text-decoration: none;
+    
+}
+.mhy1 {
+
+    font-size: 25px;
+    color:white;
+    text-decoration: none;
+        
+    }
+._kahdamat_table.th{
+
+    margin-right:70px
+}
+.mmm
+
+
+{
+
+    margin-bottom:200px;
+}
+    
+.bg2{
+background-image: url(footer-bg.png);
+margin-top:200px;
+   height:600px;
+}
+.bg111{
+
+
+    background-image: url(img_mostafa/footer-bg.png);
+    background-size:contain;
+   
+    height:600px;
+    overflow:visible
+ 
+}
+
+body{
+
+overflow-x: hidden;
+}
+.anc a{
+
+color:darkgreen;
+padding-top:30px;
+line-height:45px;
+font-size: larger;
+font-weight:500;
+text-decoration: none;
+
+}
+.background
+{
+
+background-image: url(img_mostafa/brd-intro.jpg);
+height:330px
+
+
+}
+
+
+.background1
+{
+
+background-image: url(img_mostafa/dons-bg.jpg);
+height:400px
+
+
+}
+.span1
+{
+text-align: right;
+}
+.ta
+{
+
+    text-align: center;
+}
+.height
+{
+    height:8px;
+}
+.anc a
+{
+    padding-top: 60px;
+    font-size:large;
+    padding-bottom: 60px;
+color:darkgreen;
+
+}
+.tr
+{
+
+    text-align: right;
+}
+.tl
+{
+
+    text-align:left
+}
+
+
+
+

@@ -1,0 +1,208 @@
+
+
+<div style="background-image: url(footer-bg.png);height:700px; ">
+
+<div class="ta">
+
+<div >
+    
+<span style="color:#231452; font-size: 2rem;">تواصل معنا</span>
+<br>
+<img src="444.png">
+
+</div>
+
+<div class="container mt-5">
+ <div class="position-relative"style="height:40%;display:flex">
+
+<div class="1">
+<img src="logo1.png" style="width:85px"class="mb-1">
+<br>
+<span style="color:green; font-size:larger;font-weight:600">الحلم بيكبر ... شارك معنا</span>
+<br>
+<span  style="color:green;font-size:large;font-weight:300">التبرع بجميع البنوك المصرية و خدمة</span>
+
+<br>
+<img src="footer-phone (1).png"style="display:inline;width:100px">
+
+<br>
+
+<div style="" class="mt-2">
+
+<div style="display:block">
+    <img src="DAMEN (1).png" style="display:inline;width:100px">
+    <img src="fawry (1).png"style="display:inline;width:100px">
+</div>
+
+<div style="display:block">  
+    <img src="vodafone-number-one (1).jpg" style="display:inline;width: 100px">
+    <img src="Waqty (1).png"style="display:inline;width:100px">
+</div>
+
+<div style="display:block"> 
+     <img src="o-PAY.png" style="display:inline;width:100px">
+    <img src="aman-logo (1).jpg"style="display:inline;width:100px">
+</div>
+
+
+</div>
+</div>
+
+
+
+<div style="height:100px;"></div>
+<div class="2 anc position-absolute " style="right:49%;  margin-top:130px"">
+<a href="#" class="anc">
+
+    الرئيسية
+
+</a>
+<br>
+<a href="#"  class="anc">
+    
+    
+    عن مصطفى محمود
+
+
+
+
+</a>
+
+<br>
+<a href="#"  class="anc">
+    
+    
+    عن الجمعية
+
+
+</a>
+
+<br>
+<a href="#" class="anc">
+    
+    
+    الانشطة
+
+
+</a>
+
+</div>
+
+
+
+
+<div>
+
+    <div style="height:100px"""></div>
+
+    <div class="2 anc end-0 position-absolute mt-5" style="margin-top:70px">
+        <a href="# ">
+            الخدمات الطبيه
+        
+        </a>
+        <br>
+        <a href="#">
+            
+            
+            اتبرع الان
+        
+        
+        
+        </a>
+        
+        <br>
+        <a href="#">
+            
+            
+            تواصل
+        
+        
+        </a>
+        
+        
+        
+        </div>
+        
+
+</div>
+
+
+
+ </div>
+
+
+
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+<div class="ta mt-4">
+
+<div>
+
+
+  
+    <button type="button" class="btn btn-light  border-success  rounded-circle">
+      <span > <a href="" style="color:black;text-decoration: none; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color:white;" >
+        <a href="">
+            <i class="fa-brands fa-facebook-f  bg-light "style="color:black;"></i>
+        </a>
+    </span>
+        
+    </button>
+    <br>
+    <span class=""style="color:blue">
+   
+        جميع الحقوق محفوظة
+
+<br>
+    لجمعيه مسجد مصطفى محمود
+    <br>
+    © 2018
+    <br>
+    <span style="color:black;">
+    Designed and Developed by</span> <span><a href="#" style="color:green;text-decoration: none; font-weight:500; ">Icon Creations</a> </span>
+</span>
+</div>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+<form class="row g-3">
+    
+    <div class="col-auto">
+      <label for="inputPassword2" class="visually-hidden">Password</label>
+      <input type="text" class="form-control" id="inputPassword2" placeholder="address">
+    </div>
+    <div class="col-auto">
+        <label for="inputPassword2" class="visually-hidden">Password</label>
+        <input type="text" class="form-control" id="inputPassword2" placeholder="Area and unit">
+      </div>
+    <div class="col-auto">
+      <button type="submit" class="btn btn-success "style="width:80px;height:50px"> </button>
+    </div>
+  </form>
